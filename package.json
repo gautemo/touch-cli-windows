@@ -1,0 +1,19 @@
+{
+  "name": "touch-cli-windows",
+  "version": "1.0.0",
+  "description": "This lets you use touch command on windows",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautemo/touch-cli-windows.git"
+  },
+  "author": "Gaute Meek Olsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gautemo/touch-cli-windows/issues"
+  },
+  "homepage": "https://github.com/gautemo/touch-cli-windows#readme",
+  "bin": {
+    "touch": "./bin/touch.js"
+  },
+  "dependencies": {}
+}
