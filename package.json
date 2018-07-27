@@ -1,6 +1,6 @@
 {
   "name": "touch-cli-windows",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This lets you use touch command on windows",
   "repository": {
     "type": "git",
