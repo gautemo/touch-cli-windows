@@ -1,2 +1,12 @@
 # touch-cli-windows
-This lets you use the touch command on windows
+touch command for windows cmd
+
+## Installation
+`$ npm install -g touch-cli-windows`
+
+## Usage
+`touch [filname]`
+
+## Examples
+`touch index.html style.css app.js`
+`touch index.js`
